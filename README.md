@@ -31,6 +31,6 @@ Notes/Bugs/Future Updates:
 
 - I want this bot to also work for crypto and track momentum swings.
 
-- Still in very early development and I am a student programmer that only does this is spare time
+- Still in very early development and I am a student programmer that only does this in spare time
 
 Have fun and share!
